@@ -34,6 +34,10 @@ td{
 	font-size: 15px;
 	font-weight: lighter;
 }
+.first{
+	font-weight: bolder;
+	font-size: 40px;
+}
 .third{
 	font-weight: bolder;
 	font-size: 30px;
